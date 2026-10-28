@@ -169,6 +169,6 @@ plt.show()
 
 
 # RESULT:
- Thus, a single layer perceptron model is implemented using python to classify Iris data set.
+ Thus, a single layer perceptron model is implemented using python to classify load breast cancer dataset.
 
  
